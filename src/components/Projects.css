@@ -1,0 +1,52 @@
+.NBAGalaxy {
+  width: 28em;
+  height: 20em;
+  background-image: url("/Screenshot-nba.png");
+  background-size: 100% 100%;
+}
+
+.Trivia-game {
+  width: 28em;
+  height: 20em;
+  background-image: url("/Screenshot-trivia.png");
+  background-size: 100% 100%;
+}
+
+.Week-checker {
+  width: 28em;
+  height: 20em;
+  background-image: url("/Screenshot-weather.png");
+  background-size: 100% 100%;
+}
+
+.Container {
+  margin: 1em;
+}
+.Container p {
+  width: 28em;
+}
+@media screen and (min-width: 768px) {
+  .projects {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .NBAGalaxy {
+    width: 18em;
+    height: 14em;
+  }
+
+  .Trivia-game {
+    width: 18em;
+    height: 14em;
+  }
+
+  .Week-checker {
+    width: 18em;
+    height: 14em;
+  }
+  .Container p {
+    width: 18em;
+  }
+}
