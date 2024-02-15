@@ -24,18 +24,23 @@ I am James, currently teaching JavaScript at Grand Circus with a keen interest i
 
 ### NBA Galixy
 
-- ![Screenshot](/public/Screenshot-nba.png)
+![Screenshot](/public/Screenshot-nba.png)
+
 - **Description:** Final Collaborative Project for Bootcamp at Grand Circus.
 - **Technologies Used:** React, TypeScript, Axios,
 - **Link:** [https://nba-finalproject.web.app/](https://nba-finalproject.web.app/)
 
 ### Trivia Game
 
+![Screenshot](/public/Screenshot-trivia.png)
+
 - **Description:** Trivia game
 - **Technologies Used:** Vite, React, TypeScript
 - **Link:** [https://trivia-game-a3901.web.app/](https://trivia-game-a3901.web.app/)
 
 ### Week Checker
+
+![Screenshot](/public/Screenshot-weather.png)
 
 - **Description:** Weather app that checks up to three days in advanced the API I am using doesn't offer a week at the free tier.
 - **Technologies Used:** Vite, React, TypeScript, Bootstrap
