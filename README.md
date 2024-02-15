@@ -24,6 +24,7 @@ I am James, currently teaching JavaScript at Grand Circus with a keen interest i
 
 ### NBA Galixy
 
+- [Screenshot](/public/Screenshot-nba.png)
 - **Description:** Final Collaborative Project for Bootcamp at Grand Circus.
 - **Technologies Used:** React, TypeScript, Axios,
 - **Link:** [https://nba-finalproject.web.app/](https://nba-finalproject.web.app/)
