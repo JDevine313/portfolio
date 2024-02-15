@@ -7,7 +7,6 @@ Welcome to my portfolio! This repository contains information about my skills, p
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Education](#education)
 - [Contact](#contact)
 
 ## About Me
