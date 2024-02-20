@@ -1,22 +1,28 @@
-.NBAGalaxy {
-  width: 28em;
+h1 {
+  margin: 16px;
+  text-align: center;
+}
+
+.project {
+  width: 32em;
   height: 20em;
-  background-image: url("/Screenshot-nba.png");
   background-size: 100% 100%;
+}
+
+.NBAGalaxy {
+  background-image: url("/Screenshot-nba.png");
 }
 
 .Trivia-game {
-  width: 28em;
-  height: 20em;
   background-image: url("/Screenshot-trivia.png");
-  background-size: 100% 100%;
 }
 
 .Week-checker {
-  width: 28em;
-  height: 20em;
   background-image: url("/Screenshot-weather.png");
-  background-size: 100% 100%;
+}
+
+.e-commerce {
+  background-image: url("/Screenshot-e-commerce.png");
 }
 
 .Container {
@@ -29,23 +35,15 @@
   .projects {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
   }
 }
 @media only screen and (max-width: 500px) {
-  .NBAGalaxy {
+  .project {
     width: 18em;
     height: 14em;
   }
 
-  .Trivia-game {
-    width: 18em;
-    height: 14em;
-  }
-
-  .Week-checker {
-    width: 18em;
-    height: 14em;
-  }
   .Container p {
     width: 18em;
   }
