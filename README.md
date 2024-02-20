@@ -46,6 +46,12 @@ I am James, currently teaching JavaScript at Grand Circus with a keen interest i
 - **Technologies Used:** Vite, React, TypeScript, Bootstrap
 - **Link:** [https://weather-app-55957.web.app/](https://weather-app-55957.web.app/)
 
+![Screenshot](/public/Screenshot-e-commerce.png)
+
+- **Description:** E-commerce site with google login.
+- **Technologies Used:** Vite, React, TypeScript, Firebase Auth
+- **Link:** [https://e-commerce-1c157.web.app/](https://e-commerce-1c157.web.app/)
+
 ## Contact
 
 Feel free to reach out to me and connect with me on [LinkedIn](https://www.linkedin.com/in/james-devine-at-your-service/) for professional inquiries.
