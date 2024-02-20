@@ -46,6 +46,8 @@ I am James, currently teaching JavaScript at Grand Circus with a keen interest i
 - **Technologies Used:** Vite, React, TypeScript, Bootstrap
 - **Link:** [https://weather-app-55957.web.app/](https://weather-app-55957.web.app/)
 
+### JJs Antiques (e-commerce)
+
 ![Screenshot](/public/Screenshot-e-commerce.png)
 
 - **Description:** E-commerce site with google login.
