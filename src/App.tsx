@@ -1,6 +1,6 @@
 import "./App.css";
-import Welcome from "./components/Welcome";
-import Projects from "./components/Projects";
+import Welcome from "./Welcome";
+import Projects from "./Projects";
 
 function App() {
   return (
