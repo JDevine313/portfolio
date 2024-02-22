@@ -13,6 +13,10 @@ Welcome to my portfolio! This repository contains information about my skills, p
 
 I am James, currently teaching JavaScript at Grand Circus with a keen interest in full-stack devlopment. I have a background in teaching, mangement, and now coding, and I am dedicated to making the world a little easier for everyone.
 
+## Live Site
+
+Vist the site at (https://portfolio-a0261.web.app/)[https://portfolio-a0261.web.app/]
+
 ## Skills
 
 - **Programming Languages:** HTML, CSS, JavaScript, TypeScript
