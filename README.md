@@ -15,7 +15,7 @@ I am James, currently teaching JavaScript at Grand Circus with a keen interest i
 
 ## Live Site
 
-Vist the site at (https://portfolio-a0261.web.app/)[https://portfolio-a0261.web.app/]
+Vist the site at [https://portfolio-a0261.web.app/](https://portfolio-a0261.web.app/)
 
 ## Skills
 
