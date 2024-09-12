@@ -11,7 +11,7 @@ Welcome to my portfolio! This repository contains information about my skills, p
 
 ## About Me
 
-I am James, currently teaching JavaScript at Grand Circus with a keen interest in full-stack devlopment. I have a background in teaching, mangement, and now coding, and I am dedicated to making the world a little easier for everyone.
+I am James, currently teaching the MERN stack at Grand Circus with a keen interest in full-stack devlopment. I have a background in teaching, mangement, and now coding, and I am dedicated to making the world a little easier for everyone.
 
 ## Live Site
 
