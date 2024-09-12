@@ -1,8 +1,32 @@
-import "./Welcome.css";
+import { useEffect, useRef } from "react";
+import "./Welcome.css"; // Your CSS file
 
 const Welcome = () => {
+  const scrollContainerRef = useRef(null);
+
+  useEffect(() => {
+    const scrollContainer: any = scrollContainerRef.current;
+
+    scrollContainer.scrollTop = 0;
+
+    // Scroll down after 1000ms by 100px
+    const timer = setInterval(() => {
+      scrollContainer.scrollBy({
+        top: 3, //
+        behavior: "smooth",
+      });
+      if (
+        scrollContainer.scrollTop + 2 >
+        scrollContainer.scrollHeight - scrollContainer.clientHeight
+      ) {
+        clearInterval(timer);
+      }
+    }, 50);
+    return () => clearInterval(timer);
+  }, []);
+
   return (
-    <div className="Slide">
+    <div className="Slide" ref={scrollContainerRef}>
       <div className="card first">
         <p>H</p>
         <p>e</p>
@@ -37,7 +61,7 @@ const Welcome = () => {
       </div>
       <div className="card eighth">
         <p>
-          Check out the <a href="https://github.com/jeDevine">GitHub</a>
+          Check out the <a href="https://github.com/JDevine313">GitHub</a>
         </p>
       </div>
       <div className="card nineth">
@@ -46,6 +70,12 @@ const Welcome = () => {
           <a href="https://www.linkedin.com/in/james-devine-at-your-service/">
             LinkedIn
           </a>
+        </p>
+      </div>
+      <div className="card">
+        <p>
+          Check out my latest projects below!!{" "}
+          <i className="fa-solid fa-down-long"></i>
         </p>
       </div>
     </div>

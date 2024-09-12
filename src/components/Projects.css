@@ -7,22 +7,7 @@ h1 {
   width: 32em;
   height: 20em;
   background-size: 100% 100%;
-}
-
-.NBAGalaxy {
-  background-image: url("/Screenshot-nba.png");
-}
-
-.Trivia-game {
-  background-image: url("/Screenshot-trivia.png");
-}
-
-.Week-checker {
-  background-image: url("/Screenshot-weather.png");
-}
-
-.e-commerce {
-  background-image: url("/Screenshot-e-commerce.png");
+  border: 5px groove white;
 }
 
 .Container {

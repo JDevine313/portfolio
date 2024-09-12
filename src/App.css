@@ -3,5 +3,5 @@
 .App {
   color: white;
   font-family: "Patrick Hand", cursive;
-  background-image: url("/portfolio_background.jpg");
+  background-image: url("./assests/portfolio_background.jpg");
 }
